@@ -1,0 +1,10 @@
+Truth Predicted Tweet
+1	0.00	b'truli later move know queen bee upward bound movingonup'
+1	0.00	b'new report talk burn calori cold work harder warm feel better weather :p'
+1	0.00	b'harri niall 94 harri born ik stupid wanna chang :d'
+1	0.00	b'park get sunlight'
+1	0.00	b'uff itna miss karhi thi ap :p'
+0	1.00	b'hello info possibl interest jonatha close join beti :( great'
+0	1.00	b'u prob fun david'
+0	1.00	b'pat jay'
+0	1.00	b'sr financi analyst expedia inc bellevu wa financ expediajob job job hire'

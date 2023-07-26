@@ -1,0 +1,32 @@
+Label Predicted Tweet
+THE TWEET IS: @MarkBreech Not sure it would be good thing 4 my bottom daring 2 say 2 Miss B but Im gonna be so stubborn on mouth soaping ! #NotHavingit :p
+THE PROCESSED TWEET IS: ['sure', 'would', 'good', 'thing', '4', 'bottom', 'dare', '2', 'say', '2', 'miss', 'b', 'im', 'gonna', 'stubborn', 'mouth', 'soap', 'nothavingit', ':p']
+1	0.48942981	b'sure would good thing 4 bottom dare 2 say 2 miss b im gonna stubborn mouth soap nothavingit :p'
+THE TWEET IS: I'm playing Brain Dots : ) #BrainDots
+http://t.co/UGQzOx0huu
+THE PROCESSED TWEET IS: ["i'm", 'play', 'brain', 'dot', 'braindot']
+1	0.48418981	b"i'm play brain dot braindot"
+THE TWEET IS: I'm playing Brain Dots : ) #BrainDots http://t.co/aOKldo3GMj http://t.co/xWCM9qyRG5
+THE PROCESSED TWEET IS: ["i'm", 'play', 'brain', 'dot', 'braindot']
+1	0.48418981	b"i'm play brain dot braindot"
+THE TWEET IS: I'm playing Brain Dots : ) #BrainDots http://t.co/R2JBO8iNww http://t.co/ow5BBwdEMY
+THE PROCESSED TWEET IS: ["i'm", 'play', 'brain', 'dot', 'braindot']
+1	0.48418981	b"i'm play brain dot braindot"
+THE TWEET IS: off to the park to get some sunlight : )
+THE PROCESSED TWEET IS: ['park', 'get', 'sunlight']
+1	0.49636406	b'park get sunlight'
+THE TWEET IS: @msarosh Uff Itna Miss karhy thy ap :p
+THE PROCESSED TWEET IS: ['uff', 'itna', 'miss', 'karhi', 'thi', 'ap', ':p']
+1	0.48250522	b'uff itna miss karhi thi ap :p'
+THE TWEET IS: @phenomyoutube u probs had more fun with david than me : (
+THE PROCESSED TWEET IS: ['u', 'prob', 'fun', 'david']
+0	0.50988296	b'u prob fun david'
+THE TWEET IS: pats jay : (
+THE PROCESSED TWEET IS: ['pat', 'jay']
+0	0.50040366	b'pat jay'
+THE TWEET IS: my beloved grandmother : ( https://t.co/wt4oXq5xCf
+THE PROCESSED TWEET IS: ['belov', 'grandmoth']
+0	0.50000002	b'belov grandmoth'
+THE TWEET IS: Sr. Financial Analyst - Expedia, Inc.: (#Bellevue, WA) http://t.co/ktknMhvwCI #Finance #ExpediaJobs #Job #Jobs #Hiring
+THE PROCESSED TWEET IS: ['sr', 'financi', 'analyst', 'expedia', 'inc', 'bellevu', 'wa', 'financ', 'expediajob', 'job', 'job', 'hire']
+0	0.50648699	b'sr financi analyst expedia inc bellevu wa financ expediajob job job hire'
