@@ -1,6 +1,6 @@
-# Tweet Sentiment Analysis Using Naive Bayes (NB) and Logistic regression (LR)
+# Tweet Sentiment Analysis Using Naive Bayes (NB) and Logistic Regression (LR)
 
-This slef -project implements Tweet Sentiment Analysis using Logistic Regression and Naive Bayes classifiers to determine the sentiment of tweets (positive, negative, or neutral). The goal is to predict whether a tweet expresses a positive, negative, or neutral sentiment based on the text content.
+This self-project implements Tweet Sentiment Analysis using Logistic Regression and Naive Bayes classifiers to determine the sentiment of tweets (positive, negative, or neutral). The goal is to predict whether a tweet expresses a positive, negative, or neutral sentiment based on the text content.
 
 ## Table of Contents
 
